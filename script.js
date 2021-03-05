@@ -1,6 +1,5 @@
 require(["esri/config","esri/Map", "esri/views/MapView",  "esri/Graphic",
-      "esri/tasks/RouteTask", "esri/tasks/support/RouteParameters",
-      "esri/tasks/support/FeatureSet"], function (esriConfig, Map, MapView, Graphic, RouteTask, RouteParameters, FeatureSet) {
+      "esri/tasks/RouteTask", "esri/tasks/support/RouteParameters", "esri/tasks/support/FeatureSet"], function (esriConfig, Map, MapView, Graphic, RouteTask, RouteParameters, FeatureSet) {
 
 esriConfig.apiKey =  "AAPK6221ccc708944717801b1e737e84e229ARkRORCTCsMHPkG82l8m647wlPBVSru5T3Z9cJ0JjaSyfYk-s0mQw-UiHP3Xv8jT"; 
 
