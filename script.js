@@ -66,7 +66,6 @@ const view = new MapView({
               color: [5, 150, 255],
               width: 3
             };
- 
        view.graphics.add(result.route);
           });
       
