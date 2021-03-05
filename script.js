@@ -96,3 +96,5 @@ const view = new MapView({
     
   }
 });
+
+//should be able to click on one location to select the origin and then double-click another location to select the destination, and the route service should create a turn-by-turn, but this doesn't work...
